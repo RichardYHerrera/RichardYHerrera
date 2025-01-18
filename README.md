@@ -1,54 +1,141 @@
-<h2 align="left">¡Hola! 👋 Me especializo en la creación de ilustraciones digitales, modelos 3D y videojuegos. Mi pasión por el arte digital y la tecnología me impulsa a explorar nuevas fronteras creativas. Me encanta transformar ideas en realidades visuales y virtuales. ¡Vamos a crear algo increíble juntos!<br><br>¡Un saludo! 🎨🚀</h2>
+<br clear="both">
+
+<h1 align="center">Hi, welcome to Hotline</h1>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRldjZraHNkMW95NG5lYm96N3d4NWw5cmt2YXA2MDcwaXRqNDFuYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TLIVGGPBF5CogXXfWT/giphy.gif"  />
+<br clear="both">
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="gimp logo"  />
+<div align="center">
+  <img height="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBkYTdibzluMXpndHBlOWl0MmVhdjViNTMzZm5xNHFldDU2ZG95NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z97PZJxM7Q7GyjBHU1/giphy.gif"  />
 </div>
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+<br clear="both">
+
+<h1 align="center">About us:</h1>
+
+###
+
+<br clear="both">
+
+<img align="right" height="321" src="https://i.gifer.com/LThP.gif"  />
+
+###
+
+<h6 align="center">"Why do we hide behind our masks? Why do they hide behind their masks? Drop your corporate lawyers and government connections and we'll drop our hoods. They point the finger at DedSec, label us the boogeyman while they root your closet "We're not asking you to be a friend. We're asking you to turn on the flashlight. Take a look under the bed. Because the monsters are real and you're looking in the wrong place."</h6>
+
+###
+
+<h4 align="right">-----------------------------------------------------------------------------------------------------------------------------------------<br>Digital Artists 🕶️: Visual alchemists, transforming the ethereal into the tangible.<br><br>3D Modelers 🔍: Architects of parallel realities and hidden dimensions.<br><br>Programmers 🔧: Masters of code, creating and unraveling digital worlds.<br><br>Hackers 🕵️: Guardians of the truth, guardians of the deepest secrets of cyberspace.</h4>
+
+###
+
+<h1 align="left">--------------------------------------------------------------------</h1>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="500" src="https://i.gifer.com/SAC5.gif"  />
 </div>
 
 ###
 
-<img align="left" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZyc2Z5Z25hbmd0Y2JpbmZkZXIzankyOWw3ZGIzcm5mcHJ2NDg0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IzR9o1CxrNYTU1g71p/giphy.gif"  />
+<h3 align="left">-----------------------------------------------------------------------------------------------------------------------------------------------</h3>
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+<br clear="both">
+
+<h2 align="center">About me</h2>
+
+###
+
+<br clear="both">
+
+<p align="center">My name is richard<br>Hello! 👋 I specialize in creating digital illustrations, 3D models and video games. My passion for digital art and technology drives me to explore new creative frontiers. I love transforming ideas into visual and virtual realities. Let's create something amazing together!</p>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://i.gifer.com/AC0k.gif"  />
 </div>
+
+###
+
+<h2 align="center">I code with</h2>
 
 ###
 
 <div align="center">
-  <img height="800" src="https://media.giphy.com/media/WUyyGUtzniOpYB6sA5/giphy.gif?cid=ecf05e47b5g64hxuv0zy0m85e3nf4cppdw5m328rftfsg7vu&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="500" src="https://i.gifer.com/Gnt2.gif"  />
+</div>
+
+###
+
+<h1 align="center">//Member//</h1>
+
+###
+
+<h6 align="center">░░░░░░▄▄▄░░░▄▄▄░░▄▄▄░░▄▄▄░░░░░░<br>░░░░░░████▄█████████▄▄███▄░░░░░<br>░░░░░░██████▀░████░▀███▀██▄░░░░<br>░░░░░░░██▄▀▀░░░▀▀░░░▀▀░░▀██░░░░<br>░░░░░░░░███▄░░░░░░░░░░░░░██░░░░<br>░░░░░░░░░▀████▄▄░░░░░░░░▄██░░░░<br>░░░░░░░░░░▄███▀▀░░░██░▄███▄▄▄▄▄<br>░░░░░░░░▄███▀░░░░░░░░░██████▀░░<br>░░░░░▄███▀░░░░░░░░░░░▄███████▄▄<br>░░░▄███▀░░░░░░░░░░░░████▄░░░░░░<br>░▄█████▄▄░░░░░░░░░░███▀██▄░░░░░<br>▀▀▀▀▀▀██░░░░░░░░░░░██░░███░░░░░<br>░░░░░███▄▄██░░░░░░░██████▀░░░░░<br>░░░░░███▀▀██░░░▄░░░░░▀███░░░░░░<br>░░░░░░░░░░██████▄░░▄█░██░░░░░░░<br>░░░░░░░░░░██▀▀▀██▄██████░░░░░░░<br>░░░░░░░░░░░░░░░██▀▀░████░░░░░░░<br>░░░░░░░░░░░░░░░▀░░░░░▀█░░░░░░░░</h6>
+
+###
+
+<div align="center">
+  <img height="303" src="https://media.giphy.com/media/l0Iyi18wvCxdJ1eCI/giphy.gif?cid=ecf05e47j19zs0xouknv1jqota5fau2yn7n76ocwp0t2x1s5&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+</div>
+
+###
+
+<h1 align="left">-----------------------------------------------------------------------------------------</h1>
+
+###
+
+<div align="center">
+  <img height="500" src="https://i.gifer.com/7aZ6.gif"  />
 </div>
 
 ###
