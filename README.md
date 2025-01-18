@@ -24,7 +24,7 @@
 
 ###
 
-<h6 align="center">"Why do we hide behind our masks? Why do they hide behind their masks? Drop your corporate lawyers and government connections and we'll drop our hoods. They point the finger at DedSec, label us the boogeyman while they root your closet "We're not asking you to be a friend. We're asking you to turn on the flashlight. Take a look under the bed. Because the monsters are real and you're looking in the wrong place."</h6>
+<h6 align="center">"Why do we hide behind our masks? Why do they hide behind their masks? Drop your corporate lawyers and government connections and we'll drop our hoods. They point the finger at HOTLINE, label us the boogeyman while they root your closet "We're not asking you to be a friend. We're asking you to turn on the flashlight. Take a look under the bed. Because the monsters are real and you're looking in the wrong place."</h6>
 
 ###
 
