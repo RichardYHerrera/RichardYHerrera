@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hi, welcome to Hotline</h1>
+<h1 align="center">Hi, welcome to Hotline Society</h1>
 
 ###
 
