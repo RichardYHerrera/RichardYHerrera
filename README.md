@@ -56,7 +56,7 @@
 
 <br clear="both">
 
-<p align="center">My name is richard<br>Hello! 👋 I specialize in creating digital illustrations, 3D models and video games. My passion for digital art and technology drives me to explore new creative frontiers. I love transforming ideas into visual and virtual realities. Let's create something amazing together!</p>
+<p align="center">My name is Richard YH<br>Hello! 👋 I specialize in creating digital illustrations, 3D models and video games. My passion for digital art and technology drives me to explore new creative frontiers. I love transforming ideas into visual and virtual realities. Let's create something amazing together!</p>
 
 ###
 
