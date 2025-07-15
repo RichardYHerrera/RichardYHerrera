@@ -20,7 +20,7 @@
 
 <br clear="both">
 
-<img align="right" height="321" src="https://i.gifer.com/LThP.gif"  />
+<img align="right" height="321" src="https://raw.githubusercontent.com/RichardYHerrera/RichardYHerrera/refs/heads/main/fantasma.gif"  />
 
 ###
 
@@ -28,11 +28,11 @@
 
 ###
 
-<h4 align="right">-----------------------------------------------------------------------------------------------------------------------------------------<br>Digital Artists 🕶️: Visual alchemists, transforming the ethereal into the tangible.<br><br>3D Modelers 🔍: Architects of parallel realities and hidden dimensions.<br><br>Programmers 🔧: Masters of code, creating and unraveling digital worlds.<br><br>Hackers 🕵️: Guardians of the truth, guardians of the deepest secrets of cyberspace.</h4>
+<h4 align="right">-----------------------------------------------------------------------------------------------------
 
 ###
 
-<h1 align="left">--------------------------------------------------------------------</h1>
+<h1 align="left">----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</h1>
 
 ###
 
