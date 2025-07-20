@@ -24,7 +24,7 @@
 
 ###
 
-<h6 align="center">"sin informacion"</h6>
+<h6 align="center">"sin vacantes"</h6>
 
 ###
 
