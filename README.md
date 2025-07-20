@@ -38,7 +38,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="500" src="https://i.gifer.com/SAC5.gif"  />
+  <img height="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRtNjdrdHp2Zzh3Z2xzY3l0NG94YTduaGkzd2R0aTFwOTN0andtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8mpR6vIRIc3g0nD8ic/giphy.gif"  />
 </div>
 
 ###
@@ -110,7 +110,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="500" src="https://i.gifer.com/Gnt2.gif"  />
+  <img height="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZ1M2NpM2w0OWwzbzNydjlzamVwYTlhc2JjajczazM3YmVtbTF6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JcJftkNKb7FtVrACIe/giphy.gif"  />
 </div>
 
 ###
@@ -124,17 +124,17 @@
 ###
 
 <div align="center">
-  <img height="303" src="https://media.giphy.com/media/l0Iyi18wvCxdJ1eCI/giphy.gif?cid=ecf05e47j19zs0xouknv1jqota5fau2yn7n76ocwp0t2x1s5&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+  <img height="303" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZjemxsamVtYXAydGFzOXh5Ym5mdWJqZGVjeTF2Y3Vnd3luNHBsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WsvLlmmjx9tnmeTPNc/giphy.gif"  />
 </div>
 
 ###
 
-<h1 align="left">-----------------------------------------------------------------------------------------</h1>
+<h1 align="left">-----------------------------PUNKROCKER---------------------------------</h1>
 
 ###
 
 <div align="center">
-  <img height="500" src="https://i.gifer.com/7aZ6.gif"  />
+  <img height="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJ3M2kwMmszeXM3b2xoZ2htMm9wN3kzemg2NnJ4Y3lpd2hjZzF4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlNwI5ULEqhqlBS/giphy.gif"  />
 </div>
 
 ###
