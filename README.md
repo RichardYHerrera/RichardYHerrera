@@ -20,19 +20,18 @@
 
 <br clear="both">
 
-<img align="right" height="321" src="https://raw.githubusercontent.com/RichardYHerrera/RichardYHerrera/refs/heads/main/fantasma.gif"  />
+<img align="right" height="200" src="https://raw.githubusercontent.com/RichardYHerrera/RichardYHerrera/refs/heads/main/fantasma.gif"  />
+
+###
+<h3 align="center">*******************************************************************************************"HOTLINE Infecta.No buscamos controlar el sistema
+"</h6>
+
+
+<h6 align="center">“You need to nerd out”.
 
 ###
 
-<h6 align="center">"sin vacantes"</h6>
-
-###
-
-<h4 align="right">-----------------------------------------------------------------------------------------------------
-
-###
-
-<h1 align="left">----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</h1>
+<h1 align="left">******************************************************************************************************************</h1>
 
 ###
 
@@ -44,7 +43,7 @@
 
 ###
 
-<h3 align="left">-----------------------------------------------------------------------------------------------------------------------------------------------</h3>
+<h3 align="left">---------JOIN US---------JOIN US----------JOIN US-----------JOIN US----------JOIN US----------JOIN US----------</h3>
 
 ###
 
@@ -63,7 +62,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://i.gifer.com/AC0k.gif"  />
+  <img height="200" src="https://raw.githubusercontent.com/RichardYHerrera/RichardYHerrera/refs/heads/main/zombie.gif"  />
 </div>
 
 ###
