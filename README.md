@@ -65,6 +65,9 @@
 
 <p align="left">⊶<br>⊶Nombre: CODE_FOX<br>⊶Clase: Remixador de Estilos<br>⊶Rareza: Épico-Culto<br><br><br><br>
 Hello!  I specialize in creating digital illustrations, 3D models and video games. My passion for digital art and technology drives me to explore new creative frontiers. I love transforming ideas into visual and virtual realities. Let's create something amazing together!
+
+🦊 ZORRO GLITCHPUNK: “¡NO ERES COMPATIBLE!"
+
 </p>
 
 ###
