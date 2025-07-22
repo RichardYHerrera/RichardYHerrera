@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hi, welcome to Hotline Society</h1>
+<h1 align="center">░Hi, welcome to Hotline Society░</h1>
 
 ###
 
@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<h1 align="center">About us:</h1>
+<h1 align="center">░ABOUT US░</h1>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<h1 align="left">******************************************************************************************************************</h1>
+<h1 align="left">******************************************************************************************************</h1>
 
 ###
 
@@ -43,19 +43,21 @@
 
 ###
 
-<h3 align="left">---------JOIN US---------JOIN US----------JOIN US-----------JOIN US----------JOIN US----------JOIN US----------</h3>
+<h3 align="left">-------JOIN US---------JOIN US----------JOIN US-----------JOIN US----------JOIN US----------JOIN US-------</h3>
 
 ###
 
 <br clear="both">
 
-<h2 align="center">About me</h2>
+<h2 align="center">░ABOUT ME░</h2>
 
 ###
 
 <br clear="both">
 
-<p align="center">My name is Richard YH<br>Hello! 👋 I specialize in creating digital illustrations, 3D models and video games. My passion for digital art and technology drives me to explore new creative frontiers. I love transforming ideas into visual and virtual realities. Let's create something amazing together!</p>
+<p align="center">SELECT CHARACTER<br>Hello!  I specialize in creating digital illustrations, 3D models and video games. My passion for digital art and technology drives me to explore new creative frontiers. I love transforming ideas into visual and virtual realities. Let's create something amazing together!<br>//Nombre: CODE_FOX//<br>//Clase: Remixador de Estilos//<br>//Rareza: Épico-Culto//
+
+</p>
 
 ###
 
