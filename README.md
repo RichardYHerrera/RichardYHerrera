@@ -20,7 +20,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/RichardYHerrera/RichardYHerrera/refs/heads/main/fantasma.gif"  />
+<img align="right" height="200" src="https://github.com/RichardYHerrera/RichardYHerrera/blob/main/DINAMARCA.gif?raw=true"  />
 
 ###
 <h3 align="center">*******************************************************************************************"HOTLINE Infecta.No buscamos controlar el sistema
