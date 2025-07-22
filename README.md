@@ -53,10 +53,18 @@
 
 ###
 
+###
+
 <br clear="both">
 
-<p align="center">SELECT CHARACTER<br>Hello!  I specialize in creating digital illustrations, 3D models and video games. My passion for digital art and technology drives me to explore new creative frontiers. I love transforming ideas into visual and virtual realities. Let's create something amazing together!<br>//Nombre: CODE_FOX//<br>//Clase: Remixador de Estilos//<br>//Rareza: Épico-Culto//
+<img align="right" height="200" src="https://raw.githubusercontent.com/RichardYHerrera/RichardYHerrera/refs/heads/main/perfil.jpg"  />
 
+###
+<h3 align="left">***◤SELECT CHARACTER◢***
+</h6>
+
+<p align="left">⊶<br>⊶Nombre: CODE_FOX<br>⊶Clase: Remixador de Estilos<br>⊶Rareza: Épico-Culto<br><br><br><br>
+Hello!  I specialize in creating digital illustrations, 3D models and video games. My passion for digital art and technology drives me to explore new creative frontiers. I love transforming ideas into visual and virtual realities. Let's create something amazing together!
 </p>
 
 ###
@@ -64,7 +72,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/RichardYHerrera/RichardYHerrera/refs/heads/main/zombie.gif"  />
+  <img height="600" src="https://raw.githubusercontent.com/RichardYHerrera/RichardYHerrera/refs/heads/main/CODEFOX.gif"  />
 </div>
 
 ###
@@ -122,7 +130,7 @@
 ###
 
 <h6 align="center">
-   <img height="600" src="https://raw.githubusercontent.com/RichardYHerrera/RichardYHerrera/refs/heads/main/CODEFOX.gif"  />
+   <img height="600" src="https://i.gifer.com/y7.gif"  />
 </div>
   
 ###
