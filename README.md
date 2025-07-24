@@ -38,7 +38,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRtNjdrdHp2Zzh3Z2xzY3l0NG94YTduaGkzd2R0aTFwOTN0andtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8mpR6vIRIc3g0nD8ic/giphy.gif"  />
+  <img height="500" src="https://github.com/RichardYHerrera/RichardYHerrera/blob/main/GIF%20JOIN%20FUJI.gif?raw=true"  />
 </div>
 
 ###
