@@ -105,12 +105,12 @@ Hello!  I specialize in creating digital illustrations, 3D models and video game
 <br clear="both">
 
 <div align="center">
-  <img height="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZ1M2NpM2w0OWwzbzNydjlzamVwYTlhc2JjajczazM3YmVtbTF6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JcJftkNKb7FtVrACIe/giphy.gif"  />
+  <img height="500" src="https://raw.githubusercontent.com/RichardYHerrera/RichardYHerrera/refs/heads/main/carger.gif"  />
 </div>
 
 ###
 
-<h1 align="center">//Member//</h1>
+<h1 align="center">//error//</h1>
 
 ###
 
@@ -126,7 +126,7 @@ Hello!  I specialize in creating digital illustrations, 3D models and video game
 
 ###
 
-<h1 align="left">-----------------------------PUNKROCKER---------------------------------</h1>
+<h1 align="left">------------------------------------------------------------------------</h1>
 
 ###
 
