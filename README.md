@@ -121,7 +121,7 @@ Hello!  I specialize in creating digital illustrations, 3D models and video game
 ###
 
 <div align="center">
-  <img height="303" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZjemxsamVtYXAydGFzOXh5Ym5mdWJqZGVjeTF2Y3Vnd3luNHBsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WsvLlmmjx9tnmeTPNc/giphy.gif"  />
+  <img height="303" src="https://raw.githubusercontent.com/RichardYHerrera/RichardYHerrera/refs/heads/main/chango.gif"  />
 </div>
 
 ###
