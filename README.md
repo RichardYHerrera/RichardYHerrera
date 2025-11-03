@@ -7,7 +7,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="500" src="https://raw.githubusercontent.com/RichardYHerrera/RichardYHerrera/35aca5be3f5d9ae8b90716bb2dd5bd159527d541/hotline%20anuncio.gif"  />
+  <img height="500" src="https://raw.githubusercontent.com/RichardYHerrera/RichardYHerrera/refs/heads/main/HOTLINE.gif"  />
 </div>
 
 ###
