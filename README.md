@@ -23,7 +23,7 @@
 <img align="right" height="200" src="https://github.com/RichardYHerrera/RichardYHerrera/blob/main/DINAMARCA.gif?raw=true"  />
 
 ###
-<h3 align="center">*******************************************************************************************"HOTLINE Infecta.No buscamos controlar el sistema
+<h3 align="center">*******************************************************************************************"Lo que estoy a punto de decirte es ultrasecreto. Hay un grupo poderoso de personas allá afuera que secretamente manejan el mundo. Hablo de los tipos de los que nadie sabe, los que son invisibles. El 1% del 1%. Los tipos que juegan a ser Dios sin permiso. Y ahora creo que me están siguiendo.
 "</h6>
 
 
