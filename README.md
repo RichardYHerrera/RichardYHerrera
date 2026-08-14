@@ -135,7 +135,7 @@ Hello!  I specialize in creating digital illustrations, 3D models and video game
 </div>
 
 ###
-## 📅 Horario Semanal - Randy Yufra Herrera
+## Horario Semanal
 
 | Hora | Lunes | Martes | Miércoles | Jueves | Viernes |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@ Hello!  I specialize in creating digital illustrations, 3D models and video game
 | 18:40 - 20:20 | **NI-033** Estrategias para los Negocios Internacionales | **NI-033** Estrategias para los Negocios Internacionales | **NI-033** Estrategias para los Negocios Internacionales | **NI-034** Entrepreneurship |  |
 | 20:20 - 22:00 | **NI-037** Juego de Negocios | **NI-037** Juego de Negocios |  | **NI-031** Desarrollo y Responsabilidad Social |  |
 
-### 📌 Resumen
+### Resumen
 - **Lunes:** 17:00 - 22:00
 - **Martes:** 15:20 - 22:00
 - **Miércoles:** 17:00 - 20:20
