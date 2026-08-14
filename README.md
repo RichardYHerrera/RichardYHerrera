@@ -135,3 +135,26 @@ Hello!  I specialize in creating digital illustrations, 3D models and video game
 </div>
 
 ###
+## 📅 Horario Semanal - Randy Yufra Herrera
+
+| Hora | Lunes | Martes | Miércoles | Jueves | Viernes |
+|---|---|---|---|---|---|
+| 07:50 - 10:20 |  |  |  | **EG-331** Problema y Desafíos del Perú en un Mundo Global |  |
+| 15:20 - 17:00 |  | **CEE-030** Taller de Tesis II / Trabajo de Investigación |  | **CEE-030** Taller de Tesis II / Trabajo de Investigación |  |
+| 17:00 - 18:40 | **NI-031** Desarrollo y Responsabilidad Social | **NI-935** Plan de Negocios Internacionales | **NI-034** Entrepreneurship | **NI-935** Plan de Negocios Internacionales |  |
+| 18:40 - 20:20 | **NI-033** Estrategias para los Negocios Internacionales | **NI-033** Estrategias para los Negocios Internacionales | **NI-033** Estrategias para los Negocios Internacionales | **NI-034** Entrepreneurship |  |
+| 20:20 - 22:00 | **NI-037** Juego de Negocios | **NI-037** Juego de Negocios |  | **NI-031** Desarrollo y Responsabilidad Social |  |
+
+### 📌 Resumen
+- **Lunes:** 17:00 - 22:00
+- **Martes:** 15:20 - 22:00
+- **Miércoles:** 17:00 - 20:20
+- **Jueves:** 07:50 - 10:20 y 15:20 - 22:00
+- **Viernes:** Libre
+- **Sábado:** Libre
+- **Domingo:** Libre
+
+### 🎯 Objetivo semanal
+- Viernes: Avance de tesis.
+- Sábado: Investigación y lectura.
+- Domingo: Planificación de la semana.
