@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">░Hi, welcome to Hotline Society░</h1>
+<h1 align="center">░ Hola, soy ryhshii ░</h1>
 
 ###
 
@@ -27,7 +27,7 @@
 "</h6>
 
 
-<h6 align="center">“You need to nerd out”.
+<h6 align="center">“join us”.
 
 ###
 
