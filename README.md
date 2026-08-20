@@ -32,7 +32,7 @@ Actualmente estoy fortaleciendo mis conocimientos en gestión empresarial, marke
 </h6>
 <p align="left"><br>🌎 Administración de Empresas Internacionales<br>📊 Interés en negocios y comercio internacional<br>💻 Tecnología y transformación digital<br>📈 Marketing y estrategia empresarial<br>🎨 Diseño y comunicación visual<br>🤝 Desarrollo de proyectos y emprendimientos<br>
 
-## 🌐 Redes:
+## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="50px" height="30px">Redes:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryhshii)
 
 💡 Ideas, estrategia y tecnología para crear proyectos con impacto.
