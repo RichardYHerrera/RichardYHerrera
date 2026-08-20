@@ -33,7 +33,7 @@ Actualmente estoy fortaleciendo mis conocimientos en gestión empresarial, marke
 <p align="left"><br>🌎 Administración de Empresas Internacionales<br>📊 Interés en negocios y comercio internacional<br>💻 Tecnología y transformación digital<br>📈 Marketing y estrategia empresarial<br>🎨 Diseño y comunicación visual<br>🤝 Desarrollo de proyectos y emprendimientos<br>
 
 ## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="50px" height="30px">Redes:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryhshii)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryhshii)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/richard-herrera-link)
 
 💡 Ideas, estrategia y tecnología para crear proyectos con impacto.
 
@@ -52,3 +52,5 @@ Actualmente estoy fortaleciendo mis conocimientos en gestión empresarial, marke
   <img height="60" src="https://raw.githubusercontent.com/RichardYHerrera/RichardYHerrera/refs/heads/main/carger.gif"  />
 </div>
 loading
+
+
